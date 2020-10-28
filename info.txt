@@ -1,0 +1,4 @@
+Preview url : http://droitthemes.com/wp/kidzo/
+Unit test url : http://droitthemes.com/wp/unit_test/
+doc url: https://droitthemes.com/docs/docs/kidzo-wordpress-theme/
+
